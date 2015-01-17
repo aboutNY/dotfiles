@@ -1,0 +1,1073 @@
+# この viminfo ファイルは Vim 7.4 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最後の 検索パターン:
+~MSle0~/wq!
+
+# 最後の Substitute 検索パターン:
+~MSle0&nagaishi
+
+# 最後に置換された文字列:
+$Nagaishi
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq
+:q!
+:w!
+:wq!
+:x!
+:x
+:s
+:BundleInstall
+:w
+:%s/nagaishi/Nagaishi
+:s/nagaishi/Nagaishi/g
+:qw
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+?/wq!
+?/navbar
+?/navber
+?/*
+?/menu
+?/global
+?/header
+?/navbar-brand
+?/navbar-default
+?/：
+?/:
+?/navbar-nav
+?/nav navbar-nav
+?/nav navbar-nav"
+?//navbar-default
+?/ol
+?/wel
+?/welcomw
+?/layout
+?/audio
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+"0	LINE	0
+	  # config.vm.network "forwarded_port", guest: 80, host: 8080
+"1	LINE	0
+	gem 'sqlite3'
+"2	LINE	0
+	gem 'sqlite3'
+"3	LINE	0
+	gem 'sdoc', '~> 0.4.0', group: :doc
+"4	LINE	0
+	# bundle exec rake doc:rails generates the API under doc/api.
+"5	LINE	0
+	gem 'jbuilder', '~> 2.0'
+"6	LINE	0
+	# Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
+"7	LINE	0
+	# Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
+"8	LINE	0
+	gem 'turbolinks'
+"9	LINE	0
+	gem 'coffee-rails', '4.0.1'
+"-	CHAR	0
+	u
+
+# ファイルマーク:
+'0  4  0  ~/Dropbox/command-list.md
+'1  1  0  ~/Devenv/ruby-lesson/.git/config
+'2  19  0  ~/workspace/sample/sample/.gitignore
+'3  24  48  ~/Devenv/ruby-lesson/Vagrantfile
+'4  19  0  ~/workspace/sample/sample/Gemfile
+'5  17  0  ~/workspace/sample/sample/Gemfile
+'6  7  0  ~/workspace/sample/sample/Gemfile
+'7  2  0  ~/Dropbox/command-list.md
+'8  29  0  ~/workspace/sample/sample/Gemfile
+'9  20  25  ~/workspace/sample/Gemfile
+
+# ジャンプリスト (新しいものが先):
+-'  4  0  ~/Dropbox/command-list.md
+-'  2  0  ~/Dropbox/command-list.md
+-'  1  0  ~/Devenv/ruby-lesson/.git/config
+-'  19  0  ~/workspace/sample/sample/.gitignore
+-'  1  0  ~/workspace/sample/sample/.gitignore
+-'  24  48  ~/Devenv/ruby-lesson/Vagrantfile
+-'  28  57  ~/Devenv/ruby-lesson/Vagrantfile
+-'  19  0  ~/workspace/sample/sample/Gemfile
+-'  18  0  ~/workspace/sample/sample/Gemfile
+-'  28  0  ~/workspace/sample/sample/Gemfile
+-'  17  0  ~/workspace/sample/sample/Gemfile
+-'  7  0  ~/workspace/sample/sample/Gemfile
+-'  6  1  ~/workspace/sample/sample/Gemfile
+-'  11  0  ~/workspace/sample/sample/Gemfile
+-'  29  0  ~/workspace/sample/sample/Gemfile
+-'  25  1  ~/workspace/sample/sample/Gemfile
+-'  14  1  ~/workspace/sample/sample/Gemfile
+-'  2  0  ~/workspace/sample/sample/Gemfile
+-'  1  0  ~/workspace/sample/sample/Gemfile
+-'  20  25  ~/workspace/sample/Gemfile
+-'  8  7  ~/workspace/sample/Gemfile
+-'  1  0  ~/workspace/sample/Gemfile
+-'  1  0  ~/Devenv/ruby-lesson/192.168.33.11.txt
+-'  1  0  ~/Dropbox/command-list.md
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  6  0  ~/workspace/hello.rb
+-'  1  0  ~/workspace/hello.rb
+-'  4  0  ~/Dropbox/command-list.txt
+-'  1  0  ~/Dropbox/command-list.txt
+-'  29  0  ~/Devenv/ruby-lesson/Vagrantfile
+-'  1  7  ~/Devenv/redmineVM/192.168.33.10.txt
+-'  1  0  ~/Devenv/ansible-test/192.168.33.100.txt
+-'  1  0  ~/Devenv/ansible-test/Vagrantfile
+-'  1  0  ~/Devenv/ruby-lesson/Vagrantfile
+-'  1  0  ~/Documents/heroku-test/smarttab.js
+-'  12  0  ~/Documents/heroku-test/smarttab.js
+-'  3  7  ~/Documents/heroku-test/smarttab.js
+-'  6  28  ~/Documents/ansible_test/playbook.yml
+-'  1  0  ~/Documents/ansible_test/playbook.yml
+-'  5  5  ~/Documents/ansible_test/playbook.yml
+-'  4  2  ~/Documents/ansible_test/playbook.yml
+-'  7  0  ~/Documents/ansible_test/playbook.yml
+-'  1  0  ~/Documents/ansible_test/Vagrantfile
+-'  2  17  ~/Documents/ansible_test/ansible.cfg
+-'  1  0  ~/Documents/ansible_test/ansible.cfg
+-'  3  1  ~/Documents/ansible_test/playbook.yml
+-'  3  0  ~/Documents/ansible_test/playbook-2.yml
+-'  1  0  ~/Documents/ansible_test/playbook-2.yml
+-'  1  9  ~/Documents/ansible_test/group_vars/all
+-'  9  26  ~/Documents/ansible_test/playbook.yml
+-'  12  6  ~/Documents/ansible_test/playbook.yml
+-'  11  7  ~/Documents/ansible_test/playbook.yml
+-'  13  0  ~/Documents/ansible_test/playbook.yml
+-'  10  27  ~/Documents/ansible_test/playbook.yml
+-'  1  13  ~/Documents/ansible_test/hosts
+-'  1  11  /etc/ansible/hosts
+-'  1  0  ~/Documents/ansible-provision-vagrant/Vagrantfile
+-'  1  0  ~/Documents/ansible-provision-vagrant/ansible/playbook.yml
+-'  1  0  ~/Documents/ansible_test/ssh.config
+-'  1  0  ~/.ssh/config
+-'  1  0  ~/.ssh/.config.un~
+-'  1  0  ~/.ssh/known_hosts
+-'  1  0  ~/Documents/ansible_test/ansible-redmine/README.md
+-'  1  0  ~/Documents/ansible_test/ansible-redmine/site.yml
+-'  11  29  ~/Documents/test-heroku/smarttab.js
+-'  1  0  ~/..vimrc.un~
+-'  11  9  ~/Dropbox/101.HTML_CSS/style_min.css
+-'  12  0  ~/Dropbox/101.HTML_CSS/style_min.css
+-'  8  8  ~/Dropbox/101.HTML_CSS/style_min.css
+-'  17  14  ~/Dropbox/101.HTML_CSS/style_min.css
+-'  16  25  ~/Dropbox/101.HTML_CSS/style_min.css
+-'  7  7  ~/Dropbox/101.HTML_CSS/style_min.css
+-'  14  3  ~/Dropbox/101.HTML_CSS/style_min.css
+-'  15  7  ~/Dropbox/101.HTML_CSS/style_min.css
+-'  6  23  ~/Dropbox/101.HTML_CSS/style_min.css
+-'  49  70  ~/Dropbox/101.HTML_CSS/sample.html
+-'  1  0  ~/Dropbox/101.HTML_CSS/sample.html
+-'  35  3  ~/Dropbox/101.HTML_CSS/sample_min.html
+-'  33  3  ~/Dropbox/101.HTML_CSS/sample_min.html
+-'  31  29  ~/Dropbox/101.HTML_CSS/sample.html
+-'  19  37  ~/Dropbox/101.HTML_CSS/sample.html
+-'  54  123  ~/Dropbox/101.HTML_CSS/sample.html
+-'  79  15  ~/Dropbox/101.HTML_CSS/sample.html
+-'  53  1  ~/Dropbox/101.HTML_CSS/style_min.css
+-'  1  0  ~/Dropbox/101.HTML_CSS/style_min.css
+-'  44  0  ~/Dropbox/101.HTML_CSS/style.css
+-'  5  12  ~/Dropbox/101.HTML_CSS/style.css
+-'  46  7  ~/Dropbox/101.HTML_CSS/style.css
+-'  24  50  ~/Dropbox/101.HTML_CSS/style.css
+-'  37  192  ~/Dropbox/101.HTML_CSS/style.css
+-'  1  0  ~/Dropbox/101.HTML_CSS/style.css
+-'  30  43  ~/Dropbox/101.HTML_CSS/style.css
+-'  14  47  ~/Dropbox/101.HTML_CSS/style.css
+-'  9  95  ~/Dropbox/101.HTML_CSS/sample.html
+-'  27  7  ~/Dropbox/101.HTML_CSS/sample.html
+-'  53  77  ~/Dropbox/101.HTML_CSS/sample.html
+-'  22  40  ~/Dropbox/101.HTML_CSS/sample.html
+-'  88  47  ~/Dropbox/101.HTML_CSS/sample.html
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/Dropbox/command-list.md
+	"	4	0
+
+> ~/Devenv/workspace/README.md
+	"	8	0
+	^	8	0
+	.	7	0
+	+	2	0
+	+	7	0
+
+> ~/Devenv/workspace/.git/config
+	"	7	0
+
+> ~/Devenv/ruby-lesson/.git/config
+	"	1	0
+
+> ~/workspace/sample/sample/.gitignore
+	"	19	0
+	^	19	0
+	.	19	0
+	+	18	0
+	+	19	0
+
+> ~/Devenv/ruby-lesson/Vagrantfile
+	"	24	48
+	^	24	49
+	.	24	48
+	+	28	58
+	+	24	0
+	+	24	2
+	+	25	2
+	+	24	48
+
+> ~/workspace/sample/sample/Gemfile
+	"	19	0
+	^	19	0
+	.	18	17
+	+	2	0
+	+	7	0
+	+	13	0
+	+	14	0
+	+	17	0
+	+	18	0
+	+	17	0
+	+	14	0
+	+	18	0
+	+	16	0
+	+	20	0
+	+	15	0
+	+	29	0
+	+	25	0
+	+	29	0
+	+	29	0
+	+	29	0
+	+	7	0
+	+	7	0
+	+	7	0
+	+	11	0
+	+	7	0
+	+	17	0
+	+	17	0
+	+	18	17
+
+> ~/workspace/sample/Gemfile
+	"	20	25
+	^	20	26
+	.	15	25
+	+	2	11
+	+	20	26
+	+	7	21
+	+	8	21
+	+	9	0
+	+	8	29
+	+	11	23
+	+	13	21
+	+	15	25
+
+> ~/Devenv/ruby-lesson/192.168.33.11.txt
+	"	1	0
+	^	1	12
+	.	1	11
+	+	1	11
+
+> ~/.ssh/id_rsa.pub
+	"	1	0
+
+> ~/workspace/hello.rb
+	"	6	0
+	^	6	0
+	.	6	0
+	+	1	1
+	+	9	11
+	+	1	0
+	+	2	7
+	+	4	0
+	+	3	7
+	+	4	26
+	+	5	11
+	+	5	11
+	+	8	15
+	+	9	11
+	+	9	11
+	+	10	0
+	+	6	0
+
+> ~/Dropbox/command-list.txt
+	"	4	0
+	^	4	0
+	.	3	0
+	+	1	48
+	+	2	0
+	+	1	0
+	+	2	0
+	+	3	0
+
+> ~/Devenv/redmineVM/192.168.33.10.txt
+	"	1	7
+	^	1	8
+	.	1	7
+	+	1	7
+
+> ~/Devenv/ansible-test/192.168.33.100.txt
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/Devenv/ansible-test/Vagrantfile
+	"	1	0
+
+> ~/Documents/heroku-test/smarttab.js
+	"	1	0
+
+> /private/etc/ssh_config
+	"	24	0
+	^	21	2
+	.	21	2
+	+	21	2
+
+> ~/Documents/ansible_test/playbook.yml
+	"	6	28
+	^	6	29
+	.	6	29
+	+	12	28
+	+	10	32
+	+	11	15
+	+	10	38
+	+	11	14
+	+	10	28
+	+	11	13
+	+	11	15
+	+	11	14
+	+	10	28
+	+	11	15
+	+	11	14
+	+	10	23
+	+	10	23
+	+	11	15
+	+	12	28
+	+	11	5
+	+	11	14
+	+	12	7
+	+	11	8
+	+	10	8
+	+	11	8
+	+	12	6
+	+	13	0
+	+	9	27
+	+	7	0
+	+	1	16
+	+	3	11
+	+	7	20
+	+	1	15
+	+	7	0
+	+	4	65
+	+	7	0
+	+	7	27
+	+	7	0
+	+	4	50
+	+	4	54
+	+	4	8
+	+	4	7
+	+	7	0
+	+	4	8
+	+	7	0
+	+	4	8
+	+	7	0
+	+	5	0
+	+	5	20
+	+	5	7
+	+	6	9
+	+	6	95
+	+	1	0
+	+	6	29
+
+> ~/Documents/ansible_test/Vagrantfile
+	"	1	0
+
+> ~/Documents/ansible_test/ansible.cfg
+	"	2	17
+	^	2	18
+	.	2	17
+	+	1	8
+	+	2	17
+
+> ~/Documents/ansible_test/playbook-2.yml
+	"	3	0
+	^	3	0
+	.	3	0
+	+	4	0
+	+	3	0
+
+> ~/Documents/ansible_test/group_vars/all
+	"	1	9
+	^	1	10
+	.	1	9
+	+	1	9
+
+> ~/Documents/ansible_test/hosts
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> /etc/ansible/hosts
+	"	1	11
+	^	1	12
+	.	1	11
+	+	1	180
+	+	1	1
+	+	1	11
+
+> ~/Documents/ansible-provision-vagrant/Vagrantfile
+	"	1	0
+
+> ~/Documents/ansible-provision-vagrant/ansible/playbook.yml
+	"	1	0
+
+> ~/Documents/ansible-provision-vagrant/README.md
+	"	123	0
+
+> ~/Documents/ansible_test/ssh.config
+	"	1	0
+
+> ~/.ssh/config
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.ssh/.config.un~
+	"	1	0
+
+> ~/.ssh/known_hosts
+	"	1	0
+
+> ~/Documents/ansible_test/ansible-redmine/README.md
+	"	1	0
+
+> ~/Documents/ansible_test/ansible-redmine/site.yml
+	"	1	0
+
+> ~/Documents/test-heroku/smarttab.js
+	"	11	29
+	^	11	30
+	.	11	29
+	+	5	33
+	+	11	29
+
+> ~/..vimrc.un~
+	"	1	0
+
+> ~/Dropbox/101.HTML_CSS/sample_min.html
+	"	47	27
+	^	46	0
+	.	46	0
+	+	9	56
+	+	11	0
+	+	10	0
+	+	31	41
+	+	31	41
+	+	45	21
+	+	8	3
+	+	9	0
+	+	31	44
+	+	31	88
+	+	9	55
+	+	8	0
+	+	9	0
+	+	12	0
+	+	31	41
+	+	45	29
+	+	31	41
+	+	31	44
+	+	31	43
+	+	40	77
+	+	40	76
+	+	41	91
+	+	59	0
+	+	12	14
+	+	13	15
+	+	31	0
+	+	46	16
+	+	58	16
+	+	31	41
+	+	31	41
+	+	31	41
+	+	31	41
+	+	31	42
+	+	17	0
+	+	17	1
+	+	29	0
+	+	31	41
+	+	13	3
+	+	31	41
+	+	36	0
+	+	36	0
+	+	33	0
+	+	33	0
+	+	32	0
+	+	30	30
+	+	37	0
+	+	35	0
+	+	35	0
+	+	32	0
+	+	13	0
+	+	13	0
+	+	29	0
+	+	29	0
+	+	17	0
+	+	35	0
+	+	9	56
+	+	29	59
+	+	29	64
+	+	43	15
+	+	29	72
+	+	29	64
+	+	29	64
+	+	21	39
+	+	17	0
+	+	29	0
+	+	20	39
+	+	17	0
+	+	57	0
+	+	46	0
+	i	9	0
+
+> ~/Dropbox/101.HTML_CSS/sample.html
+	"	99	0
+	^	18	0
+	.	19	38
+	+	58	37
+	+	58	38
+	+	58	35
+	+	96	0
+	+	51	94
+	+	62	97
+	+	63	120
+	+	64	210
+	+	94	0
+	+	69	67
+	+	69	69
+	+	77	0
+	+	64	88
+	+	61	67
+	+	64	155
+	+	69	69
+	+	70	84
+	+	70	101
+	+	71	88
+	+	70	82
+	+	40	0
+	+	102	49
+	+	32	71
+	+	36	35
+	+	43	34
+	+	58	25
+	+	59	46
+	+	60	32
+	+	61	24
+	+	62	16
+	+	63	8
+	+	64	0
+	+	64	81
+	+	68	40
+	+	69	32
+	+	70	24
+	+	71	16
+	+	72	8
+	+	73	47
+	+	74	0
+	+	75	16
+	+	74	29
+	+	77	0
+	+	76	0
+	+	77	39
+	+	85	0
+	+	79	49
+	+	80	0
+	+	83	55
+	+	91	0
+	+	85	63
+	+	86	86
+	+	87	47
+	+	85	81
+	+	52	0
+	+	52	88
+	+	85	75
+	+	64	0
+	+	65	64
+	+	64	80
+	+	66	65
+	+	87	76
+	+	87	76
+	+	88	47
+	+	87	68
+	+	88	79
+	+	88	74
+	+	87	53
+	+	44	0
+	+	87	81
+	+	33	71
+	+	22	43
+	+	31	0
+	+	22	40
+	+	22	0
+	+	54	0
+	+	54	0
+	+	54	79
+	+	54	0
+	+	87	0
+	+	8	61
+	+	43	34
+	+	37	31
+	+	8	75
+	+	8	67
+	+	46	60
+	+	45	0
+	+	46	34
+	+	48	0
+	+	49	0
+	+	47	0
+	+	46	0
+	+	47	32
+	+	46	69
+	+	47	0
+	+	9	3
+	+	9	64
+	+	10	0
+	+	9	0
+	+	19	38
+	i	8	57
+
+> ~/Dropbox/101.HTML_CSS/style_min.css
+	"	11	9
+	^	11	9
+	.	11	9
+	+	21	0
+	+	21	1
+	+	34	16
+	+	26	1
+	+	26	1
+	+	26	2
+	+	26	1
+	+	26	0
+	+	26	0
+	+	26	0
+	+	24	0
+	+	25	0
+	+	21	0
+	+	24	0
+	+	23	0
+	+	26	0
+	+	25	1
+	+	33	2
+	+	23	1
+	+	33	1
+	+	15	14
+	+	19	20
+	+	20	9
+	+	21	1
+	+	5	17
+	+	6	0
+	+	6	0
+	+	6	0
+	+	6	14
+	+	6	0
+	+	6	1
+	+	15	28
+	+	15	7
+	+	15	25
+	+	6	0
+	+	9	0
+	+	6	9
+	+	15	7
+	+	17	0
+	+	6	19
+	+	15	34
+	+	15	7
+	+	15	7
+	+	6	9
+	+	15	18
+	+	15	24
+	+	15	18
+	+	15	0
+	+	6	21
+	+	15	17
+	+	17	0
+	+	6	32
+	+	7	25
+	+	15	7
+	+	15	7
+	+	8	31
+	+	7	15
+	+	17	0
+	+	15	0
+	+	14	0
+	+	15	19
+	+	7	34
+	+	7	35
+	+	17	0
+	+	17	0
+	+	17	0
+	+	16	35
+	+	17	20
+	+	16	26
+	+	17	15
+	+	17	0
+	+	8	0
+	+	8	0
+	+	7	0
+	+	11	36
+	+	12	8
+	+	11	9
+
+> ~/Dropbox/101.HTML_CSS/style.css
+	"	44	0
+	^	56	0
+	.	56	0
+	+	30	42
+	+	37	43
+	+	38	0
+	+	37	41
+	+	27	43
+	+	14	0
+	+	13	24
+	+	14	24
+	+	13	24
+	+	14	24
+	+	19	45
+	+	23	53
+	+	25	46
+	+	22	0
+	+	15	40
+	+	56	16
+	+	46	8
+	+	12	27
+	+	22	24
+	+	25	24
+	+	28	24
+	+	35	24
+	+	40	24
+	+	46	8
+	+	56	0
+	+	25	0
+	+	24	51
+	+	56	16
+	+	40	24
+	+	56	0
+	+	46	0
+	+	44	0
+	+	15	40
+	+	56	16
+	+	46	8
+	+	35	24
+	+	28	24
+	+	25	24
+	+	28	24
+	+	56	16
+	+	46	8
+	+	35	24
+	+	40	24
+	+	46	8
+	+	50	8
+	+	56	0
+	+	15	32
+	+	48	17
+	+	50	16
+	+	56	17
+	+	48	16
+	+	56	16
+	+	55	33
+	+	44	34
+	+	48	1
+	+	56	1
+	+	15	40
+	+	13	24
+	+	14	24
+	+	15	39
+	+	16	50
+	+	43	61
+	+	45	61
+	+	48	0
+	+	56	0
+
+> ~/Dropbox/101.HTML_CSS/css/bootstrap.min.css
+	"	1	0
+	^	5	0
+	.	6	0
+	+	6	0
+
+> ~/Dropbox/101.HTML_CSS/sample.htpm
+	"	1	0
+
+> ~/workspace/views/layout.jade
+	"	1	0
+
+> ~/workspace/assets/js/require.js
+	"	1	0
+
+> ~/workspace/views/elements/header.jade
+	"	1	0
+	^	1	0
+	.	1	0
+	+	9	0
+	+	1	0
+
+> ~/workspace/assets/css/master.styl
+	"	1	0
+
+> ~/workspace/assets/css/_settings.styl
+	"	33	0
+
+> ~/workspace/app.coffee
+	"	9	9
+	.	21	0
+	+	21	0
+
+> ~/workspace/views/_partial.jade
+	"	1	0
+
+> ~/workspace/assets/js/main.coffee
+	"	1	0
+	.	13	0
+	+	13	0
+	+	13	0
+
+> ~/workspace/readme.md
+	"	1	0
+
+> ~/Documents/test-heroku/smarttab
+	"	1	15
+	^	2	16
+	.	1	16
+	+	1	11
+	+	6	34
+	+	1	16
+
+> ~/.vimrc
+	"	45	17
+	^	45	18
+	.	45	0
+	+	42	0
+	+	42	35
+	+	49	0
+	+	42	35
+	+	43	0
+	+	44	0
+	+	42	1
+	+	44	29
+	+	44	0
+	+	44	29
+	+	44	0
+	+	44	29
+	+	45	0
+	+	45	0
+
+> ~/Documents/webrtcmeetup-5/script.js
+	"	182	0
+	^	35	18
+	.	34	14
+	+	77	23
+	+	33	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	34	14
+
+> ~/.gvimrc
+	"	19	17
+	^	19	18
+	.	19	17
+	+	15	12
+	+	19	17
+
+> ~/.mvimrc
+	"	1	0
+
+> ~/.vim/colors/hybrid.vim
+	"	158	4
+	.	1	0
+	+	1	0
+
+> ~/Documents/webrtcmeetup-5/smarttab
+	"	1	0
+
+> ~/smarttab
+	"	3	0
+	^	3	0
+	.	1	0
+	+	2	4
+	+	1	0
+
+> ~/Documents/test-heroku/Vagrantfile
+	"	45	29
+	^	13	30
+	.	13	19
+	+	13	24
+	+	27	56
+	+	13	24
+	+	14	0
+	+	13	19
+
+> ~/Documents/webrtcmeetup-5/peer.js
+	"	86	0
+
+> ~/.vim/colors/desert.vim
+	"	50	0
+
+> ~/Documents/test_ansible/Vagrantfile
+	"	45	57
+	^	27	57
+	.	27	56
+	+	27	56
+
+> ~/.bashrc
+	"	4	73
+	^	4	74
+	.	4	73
+	+	1	0
+	+	3	0
+	+	1	0
+	+	1	29
+	+	1	3
+	+	5	0
+	+	4	73
+
+> ~/.bash_profile
+	"	3	0
+	^	3	1
+	.	1	1
+	+	3	0
+	+	1	1
+
+> ~/Documents/redmineVM/Vagrantfile
+	"	1	0
+	^	28	2
+	.	28	2
+	+	13	2
+	+	14	0
+	+	13	3
+	+	14	27
+	+	28	2
+
+> ~/Vagrantfile
+	"	29	0
+	^	29	0
+	.	28	2
+	+	13	1
+	+	14	21
+	+	29	60
+	+	29	60
+	+	29	0
+	+	28	2
+
+> ~/vagrantfile
+	"	1	19
+	^	27	2
+	.	27	2
+	+	27	2
+
+> ~/Vagrant/CentOS64/Vagrantfile
+	"	2	0
+	^	27	2
+	.	27	45
+	+	12	0
+	+	27	45
+
+> /etc/sysconfig/i18n
+	"	1	0
+
+> ~/chef-repo/solo.rb
+	"	4	50
+	^	4	51
+	.	5	0
+	+	3	42
+	+	5	0
+	+	4	67
+	+	5	0
+
+> ~/chef-repo/localhost.json
+	"	1	0
+	^	7	0
+	.	7	0
+	+	7	0
+
+> ~/chef-repo/cookbooks/hello/recipes/default.rb
+	"	1	0
+	^	10	0
+	.	9	18
+	+	11	0
+	+	9	18
+
+> ~/chef-repo/cookbooks/hello/recipes/dfault.rb
+	"	1	0
+
+> ~/Dropbox/002AWS/login
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/Dropbox/002AWS/id_rsa
+	"	27	28
+	^	27	29
+	.	27	29
+	+	27	29
+
+> ~/Dropbox/002AWS/su_info
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/Dropbox/002AWS/Credential_enagyos
+	"	1	12
+	^	3	18
+	.	4	32
+	+	4	32
+
+> ~/hello
+	"	1	0
+	^	6	9
+	.	6	9
+	+	7	0
+	+	7	0
+	+	7	9
+	+	7	0
+	+	7	10
+	+	7	0
+	+	7	10
+	+	7	0
+	+	7	0
+	+	7	0
+	+	1	2
+	+	7	0
+	+	7	9
+	+	7	0
+	+	6	15
+	+	3	0
+	+	5	0
+	+	3	15
+	+	1	2
+	+	6	9
+
+> ~/text
+	"	3	9
+	^	3	10
+	.	3	9
+	+	3	9
+
+> ~/hello.sh
+	"	3	17
+	^	3	18
+	.	3	16
+	+	3	16
