@@ -1,10 +1,3 @@
-ls
-cd host_data/
-ls
-cd ruby-tutorial/
-ls
-ls
-rm -rf .git
 git init
 git add .
 ls
@@ -498,3 +491,10 @@ cat hosts
 homebrew cask install kobito
 brew cask
 brew cask search kobito
+/opt/homebrew-cask/Caskroom/macvim/7.4-73/MacVim-snapshot-73/mvim ; exit;
+l
+cd
+ls
+rm -rf vimbackup/
+ls
+ls
